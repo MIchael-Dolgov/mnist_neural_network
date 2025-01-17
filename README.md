@@ -1,1 +1,1 @@
-This Neural Network when uses only numpy and matplotlib libraries from pypi
+Neural Network from scratch which uses only numpy and matplotlib libraries
